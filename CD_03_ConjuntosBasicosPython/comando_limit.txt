@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/43490495/how-to-set-notebookapp-iopub-data-rate-limit-and-others-notebookapp-settings-in
+
+jupyter notebook --NotebookApp.iopub_data_rate_limit=1e10

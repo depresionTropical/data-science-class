@@ -1,0 +1,36 @@
+id,Nombre,Apellidos,Carrera,Semestre,Correo,Promedio
+1,Rodrigo Alejandro,Aguilar Rosel,Renovables,9,rodrigo12@gmail.com,59
+2,Miguel Isaac ,Arroyo Velazquez,Fisica,7,arroyov@gmail.com,86
+3,Nohely,Badillo Castillo,Fisica,7,nohely_92@gmail.com,94
+4,Julio de jesus,Basto Clavijo,Mecatronica,10,juliobasti@hotmail.com,79
+5,Zaazil Ha,Cabreja Burgos,Fisica,9,zazicab@gmail.com,100
+6,Fernando Humberto,Carrillo Berdugo,Fisica,9,fernandocarrillo@gmail.com,36
+7,Edwin Alberto,Castillo Herrera,Mecatronica,9,castilloherrera96@gmail.com,77
+8,Eduardo Alonso,Catzin Uc,Fisica,5,eduardocatzin@gmail.com,95
+9,Dario de Jesus,Chan Colli,Fisica,5,dariocha@gmail.com,97
+10,Abril Guadalupe,Chan Gallegos,Fisica,9,itsab@gmail.com,84
+11,Alexa Amairani,Dominguez Salazar,Mecatronica,10,a1411@alumnos.uady.mx,83
+12,Guillermo Agustin,Dzib Duran,Mecatronica,9,guillerm@hotmail.com,97
+13,Maria del Carmen,Esteban Castro,Fisica,6,marias@gmail.com,45
+14,Rafael Eduardo,Flores Pat,Mecatronica,10,ref@hotmail.com,83
+15,Saul Eliseo,Gamboa Leon,Fisica,5,saul.eliseo1g@gmail.com,50
+16,Ricardo Andres,Hernandez Esperon,Renovables,9,ricardohernandeze182@gmail.com,84
+17,Sergio Alonso,Lopez Fuentes,Fisica,9,iol99@gmail.com,26
+18,Eric Josue ,Manzanilla Careaga,Fisica,6,ericmanzanil@gmail.com,98
+19,Raul Isaac,Mercado Sandoval,Mecatronica,10,raulmercadosan@gmail.com,66
+20,Fernando Antonio,Mora Cruz,Renovables,6,fernan@hotmail.com,79
+21,Jimena,Ochoa Mancilla,Fisica,7,ochoa97@gmail.com,52
+22,Jose Rodrigo ,Orozco Chac,Fisica,9,rodrig@gmail.com,53
+23,Bruno,Perez Hernandez,Fisica,5,bp5179@gmail.com,77
+24,Jose Angel,Puc Ciau,Mecatronica,10,jose.puc@gmail.com,80
+25,Carmen Andrea,Rivera Martinez,Fisica,5,carmen.r@hotmail.com,68
+26,Hazael,Rivero Canul,Mecatronica,9,ritohazae@gmail.com,66
+27,Laura Paola,Rocha Villarino,Fisica,7,paol@hotmail.com,76
+28,Omar Yamil,Rodriguez Gamboa,Renovables,9,omary@gmail.com,95
+29,Dulce Mariana,Romero Quezada,Fisica,5,soymariana@gmail.com,83
+30,Ariel Alejandro,Ruiz Ramirez,Fisica,10,ruizrr@gmail.com,86
+31,Rafael Jesus ,Salazar Magana,Mecatronica,9,smrafael@gmail.com,70
+32,Alejandro,Santoscoy Rivero,Fisica,5,alesanc@hotmail.com,65
+33,Luis Ernesto,Sevilla Sarao,Renovables,9,sevillaerne@gmail.com,69
+34,Alan David ,Vargas Saenz,Renovables,9,alandavs@gmail.com,83
+35,Rafael ,Vega Can,Mecatronica,10,rafaelve@gmail.com,97
