@@ -1,0 +1,290 @@
+[
+  {
+    "Estado": "Baja California",
+    "id_estado": "BC",
+    "Planta": "Planta1",
+    "Generaci\u00f3n por planta MW": 50.0,
+    "latitud": 32.463871,
+    "longitud": -116.09857
+  },
+  {
+    "Estado": "Baja California",
+    "id_estado": "BC",
+    "Planta": "Planta2",
+    "Generaci\u00f3n por planta MW": 70.0,
+    "latitud": 32.463871,
+    "longitud": -116.007452
+  },
+  {
+    "Estado": "Baja California",
+    "id_estado": "BC",
+    "Planta": "Planta3",
+    "Generaci\u00f3n por planta MW": 76.0,
+    "latitud": 32.610851,
+    "longitud": -116.003114
+  },
+  {
+    "Estado": "Chiapas",
+    "id_estado": "CS",
+    "Planta": "Planta4",
+    "Generaci\u00f3n por planta MW": 49.0,
+    "latitud": 16.17974,
+    "longitud": -93.939828
+  },
+  {
+    "Estado": "Coahuila",
+    "id_estado": "CL",
+    "Planta": "Planta5",
+    "Generaci\u00f3n por planta MW": 148.0,
+    "latitud": 25.641006,
+    "longitud": -101.506989
+  },
+  {
+    "Estado": "Coahuila",
+    "id_estado": "CL",
+    "Planta": "Planta6",
+    "Generaci\u00f3n por planta MW": 123.0,
+    "latitud": 25.719465,
+    "longitud": -101.476305
+  },
+  {
+    "Estado": "Coahuila",
+    "id_estado": "CL",
+    "Planta": "Planta7",
+    "Generaci\u00f3n por planta MW": 126.0,
+    "latitud": 25.646795,
+    "longitud": -101.485582
+  },
+  {
+    "Estado": "Guanajuato",
+    "id_estado": "GT",
+    "Planta": "Planta8",
+    "Generaci\u00f3n por planta MW": 105.0,
+    "latitud": 21.694181,
+    "longitud": -101.235896
+  },
+  {
+    "Estado": "Jalisco",
+    "id_estado": "JC",
+    "Planta": "Planta9",
+    "Generaci\u00f3n por planta MW": 179.0,
+    "latitud": 21.801302,
+    "longitud": -101.671914
+  },
+  {
+    "Estado": "Nuevo Le\u00f3n",
+    "id_estado": "NL",
+    "Planta": "Planta10",
+    "Generaci\u00f3n por planta MW": 158.0,
+    "latitud": 26.210244,
+    "longitud": -100.543902
+  },
+  {
+    "Estado": "Nuevo Le\u00f3n",
+    "id_estado": "NL",
+    "Planta": "Planta11",
+    "Generaci\u00f3n por planta MW": 139.0,
+    "latitud": 25.881185,
+    "longitud": -98.776611
+  },
+  {
+    "Estado": "Nuevo Le\u00f3n",
+    "id_estado": "NL",
+    "Planta": "Planta12",
+    "Generaci\u00f3n por planta MW": 137.0,
+    "latitud": 25.750651,
+    "longitud": -98.754968
+  },
+  {
+    "Estado": "Nuevo Le\u00f3n",
+    "id_estado": "NL",
+    "Planta": "Planta13",
+    "Generaci\u00f3n por planta MW": 90.0,
+    "latitud": 25.514545,
+    "longitud": -98.638097
+  },
+  {
+    "Estado": "Oaxaca",
+    "id_estado": "OC",
+    "Planta": "Planta14",
+    "Generaci\u00f3n por planta MW": 443.0,
+    "latitud": 16.37506,
+    "longitud": -95.13215
+  },
+  {
+    "Estado": "Oaxaca",
+    "id_estado": "OC",
+    "Planta": "Planta15",
+    "Generaci\u00f3n por planta MW": 452.0,
+    "latitud": 16.617605,
+    "longitud": -95.003864
+  },
+  {
+    "Estado": "Oaxaca",
+    "id_estado": "OC",
+    "Planta": "Planta16",
+    "Generaci\u00f3n por planta MW": 477.0,
+    "latitud": 16.591633,
+    "longitud": -94.682246
+  },
+  {
+    "Estado": "Oaxaca",
+    "id_estado": "OC",
+    "Planta": "Planta17",
+    "Generaci\u00f3n por planta MW": 476.0,
+    "latitud": 16.505002,
+    "longitud": -94.817727
+  },
+  {
+    "Estado": "Oaxaca",
+    "id_estado": "OC",
+    "Planta": "Planta18",
+    "Generaci\u00f3n por planta MW": 432.0,
+    "latitud": 16.508026,
+    "longitud": -94.948093
+  },
+  {
+    "Estado": "Oaxaca",
+    "id_estado": "OC",
+    "Planta": "Planta19",
+    "Generaci\u00f3n por planta MW": 476.0,
+    "latitud": 16.478792,
+    "longitud": -95.037456
+  },
+  {
+    "Estado": "Puebla",
+    "id_estado": "PL",
+    "Planta": "Planta20",
+    "Generaci\u00f3n por planta MW": 72.0,
+    "latitud": 18.793323,
+    "longitud": -97.381436
+  },
+  {
+    "Estado": "Puebla",
+    "id_estado": "PL",
+    "Planta": "Planta21",
+    "Generaci\u00f3n por planta MW": 126.0,
+    "latitud": 18.850646,
+    "longitud": -97.395479
+  },
+  {
+    "Estado": "Puebla",
+    "id_estado": "PL",
+    "Planta": "Planta22",
+    "Generaci\u00f3n por planta MW": 89.0,
+    "latitud": 18.832371,
+    "longitud": -97.402501
+  },
+  {
+    "Estado": "Quintana Roo",
+    "id_estado": "QR",
+    "Planta": "Planta23",
+    "Generaci\u00f3n por planta MW": 1.5,
+    "latitud": 20.651464,
+    "longitud": -87.204646
+  },
+  {
+    "Estado": "San Luis Potos\u00ed",
+    "id_estado": "SP",
+    "Planta": "Planta24",
+    "Generaci\u00f3n por planta MW": 114.0,
+    "latitud": 22.243373,
+    "longitud": -101.25067
+  },
+  {
+    "Estado": "San Luis Potos\u00ed",
+    "id_estado": "SP",
+    "Planta": "Planta25",
+    "Generaci\u00f3n por planta MW": 86.0,
+    "latitud": 22.354667,
+    "longitud": -101.067493
+  },
+  {
+    "Estado": "Sonora",
+    "id_estado": "SR",
+    "Planta": "Planta26",
+    "Generaci\u00f3n por planta MW": 2.0,
+    "latitud": 30.965566,
+    "longitud": -110.277588
+  },
+  {
+    "Estado": "Tamaulipas",
+    "id_estado": "TS",
+    "Planta": "Planta27",
+    "Generaci\u00f3n por planta MW": 239.0,
+    "latitud": 25.908679,
+    "longitud": -97.802901
+  },
+  {
+    "Estado": "Tamaulipas",
+    "id_estado": "TS",
+    "Planta": "Planta28",
+    "Generaci\u00f3n por planta MW": 266.0,
+    "latitud": 25.774277,
+    "longitud": -98.195095
+  },
+  {
+    "Estado": "Tamaulipas",
+    "id_estado": "TS",
+    "Planta": "Planta29",
+    "Generaci\u00f3n por planta MW": 223.0,
+    "latitud": 25.74303,
+    "longitud": -98.269008
+  },
+  {
+    "Estado": "Tamaulipas",
+    "id_estado": "TS",
+    "Planta": "Planta30",
+    "Generaci\u00f3n por planta MW": 190.0,
+    "latitud": 25.897824,
+    "longitud": -98.44097
+  },
+  {
+    "Estado": "Tamaulipas",
+    "id_estado": "TS",
+    "Planta": "Planta31",
+    "Generaci\u00f3n por planta MW": 245.0,
+    "latitud": 26.05106,
+    "longitud": -98.312753
+  },
+  {
+    "Estado": "Yucat\u00e1n",
+    "id_estado": "YN",
+    "Planta": "Planta32",
+    "Generaci\u00f3n por planta MW": 65.0,
+    "latitud": 21.229192,
+    "longitud": -87.970249
+  },
+  {
+    "Estado": "Yucat\u00e1n",
+    "id_estado": "YN",
+    "Planta": "Planta33",
+    "Generaci\u00f3n por planta MW": 66.0,
+    "latitud": 21.360226,
+    "longitud": -88.900362
+  },
+  {
+    "Estado": "Yucat\u00e1n",
+    "id_estado": "YN",
+    "Planta": "Planta34",
+    "Generaci\u00f3n por planta MW": 75.0,
+    "latitud": 21.233418,
+    "longitud": -89.640559
+  },
+  {
+    "Estado": "Zacatecas",
+    "id_estado": "ZS",
+    "Planta": "Planta35",
+    "Generaci\u00f3n por planta MW": 140.0,
+    "latitud": 22.71913,
+    "longitud": -102.648473
+  },
+  {
+    "Estado": "Zacatecas",
+    "id_estado": "ZS",
+    "Planta": "Planta36",
+    "Generaci\u00f3n por planta MW": 90.0,
+    "latitud": 22.699438,
+    "longitud": -102.592436
+  }
+]
