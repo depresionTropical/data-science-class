@@ -1,0 +1,87 @@
+************************************************ Codigo IDLE de Python **************************
+# Cargar las biblioteca Pandas con el alias 'pd’
+# Cargar las biblioteca Matplotlib con el alias ‘plt’
+import matplotlib.pyplot as plt
+import pandas as pd
+
+# Leer datos del archivo datos.csv
+data = pd.read_csv ("datos/datos.csv")
+
+# Vista previa de las primeras 5 líneas de los datos cargados
+data.head ()
+
+#Graficamos las variables
+data.plot(x ='year', y='cost', kind = 'line')
+plt.show()
+
+
+
+
+************************************************ Jupyter Notebook ******************************
+# Ejemplo de notebook Jupyter
+
+## 1. Cargar los datos
+
+# Cargar las biblioteca Pandas con el alias 'pd’
+# Cargar las biblioteca Matplotlib con el alias ‘plt’
+import matplotlib.pyplot as plt
+import pandas as pd
+
+En este notebook se utilizará la gráfica de la cronología de los precios de los teléfonos móviles a lo largo de los años 
+*Fuente:* https://www.ooma.com/home-phone/cell-phone-cost-comparison/
+![Imagen de costos de celular](figuras/img_cell_phone_cost.png) 
+
+En este notebook se utilizará la gráfica de la cronología de los precios de los teléfonos móviles a lo largo de los años 
+*Fuente:* https://www.ooma.com/home-phone/cell-phone-cost-comparison/
+<img src="figuras/img_cell_phone_cost.png" width=150/>
+
+# Leer datos del archivo datos.csv
+data = pd.read_csv ("datos/datos.csv")
+
+# Vista previa de las primeras 5 líneas de los datos cargados
+data.head ()
+
+## 2. Graficar los datos
+
+#Graficamos las variables
+data.plot(x ='year', y='cost', kind = 'line')
+plt.show()
+
+
+************************************************ Google Colab ******************************
+# Libreria para cargar nuestro drive
+from google.colab import drive
+# Cargamos nuestro drive en nuestro notebook
+drive.mount('/content/drive')
+
+!ls "/content/drive/My Drive/Tutoriales/Plataformas"
+
+# Ejemplo de notebook Jupyter
+
+## 1. Cargar los datos
+
+# Cargar las biblioteca Pandas con el alias 'pd’
+# Cargar las biblioteca Matplotlib con el alias ‘plt’
+import matplotlib.pyplot as plt
+import pandas as pd
+
+En este notebook se utilizará la gráfica de la cronología de los precios de los teléfonos móviles a lo largo de los años 
+*Fuente:* https://www.ooma.com/home-phone/cell-phone-cost-comparison/
+![Imagen](https://docs.google.com/uc?export=download&id=CAMBIAR_POR_ID_IMAGEN)  
+
+# Leer datos del archivo datos.csv
+data = pd.read_csv ("/content/drive/My Drive/Tutoriales/Plataformas/datos/datos.csv")
+
+# Vista previa de las primeras 5 líneas de los datos cargados
+data.head ()
+
+
+## 2. Graficar los datos
+
+#Graficamos las variables
+data.plot(x ='year', y='cost', kind = 'line')
+plt.show()
+
+
+
+
